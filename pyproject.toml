@@ -4,11 +4,11 @@ build-backend = "setuptools.build_meta"
 
 
 [project]
-name = "file-helper"
+name = "datas-helper"
 version = "0.0.1"
 description = "Set of support functions when working with some data files"
 readme = "README.md"
-keywords = [ "file-helper", "json", "csv", "tar", "gzip","opencv", "Pillow" ]
+keywords = [ "data-helper", "json", "csv", "tar", "gzip", "opencv", "Pillow" ]
 authors = [
     { name = "Dao Quang Duy", email = "duydaoquang12@gmail.com" },
 ]
@@ -24,7 +24,6 @@ classifiers = [
     "Development Status :: 2 - Pre-Alpha",
 ]
 dependencies = [
-    "tqdm",
 ]
 
 [project.optional-dependencies]
@@ -43,9 +42,9 @@ image = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/rabiloo/python-file-helper"
-"Repository" = "https://github.com/rabiloo/python-file-helper"
-"Bug Tracker" = "https://github.com/rabiloo/python-file-helper/issues"
+"Homepage" = "https://github.com/rabiloo/python-data-helper"
+"Repository" = "https://github.com/rabiloo/python-data-helper"
+"Bug Tracker" = "https://github.com/rabiloo/python-data-helper/issues"
 
 
 [tool.flake8]

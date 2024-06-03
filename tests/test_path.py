@@ -1,6 +1,6 @@
 import pytest
 
-from file_helper import path
+from data_helper import path
 
 
 @pytest.mark.parametrize(

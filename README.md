@@ -1,28 +1,28 @@
-# Python File Helper
+# Python Data Helper
 
-[![Testing](https://github.com/rabiloo/python-file-helper/actions/workflows/test.yml/badge.svg)](https://github.com/rabiloo/python-file-helper/actions/workflows/test.yml)
-[![Latest Version](https://img.shields.io/pypi/v/file-helper.svg)](https://pypi.org/project/file-helper)
-[![Downloads](https://img.shields.io/pypi/dm/file-helper.svg)](https://pypi.org/project/file-helper)
-[![Pypi Status](https://img.shields.io/pypi/status/file-helper.svg)](https://pypi.org/project/file-helper)
-[![Python Versions](https://img.shields.io/pypi/pyversions/file-helper.svg)](https://pypi.org/project/file-helper)
+[![Testing](https://github.com/rabiloo/python-data-helper/actions/workflows/test.yml/badge.svg)](https://github.com/rabiloo/python-data-helper/actions/workflows/test.yml)
+[![Latest Version](https://img.shields.io/pypi/v/data-helper.svg)](https://pypi.org/project/data-helper)
+[![Downloads](https://img.shields.io/pypi/dm/data-helper.svg)](https://pypi.org/project/data-helper)
+[![Pypi Status](https://img.shields.io/pypi/status/data-helper.svg)](https://pypi.org/project/data-helper)
+[![Python Versions](https://img.shields.io/pypi/pyversions/data-helper.svg)](https://pypi.org/project/data-helper)
 
-## About File Helper
+## About Data Helper
 
-[File Helper](https://github.com/rabiloo/python-file-helper) is a set of support functions when dealing with files
+[Data Helper](https://github.com/rabiloo/python-data-helper) is a set of support functions when dealing with files
 
 ## Install
 
 ```
-$ pip install file-helper
+$ pip install data-helper
 ```
 
 ## Usage
 
 ```
-from file_helper import file 
-from file_helper import path 
-from file_helper import image 
-from file_helper import compare_content 
+from data_helper import file 
+from data_helper import path 
+from data_helper import image 
+from data_helper import compare_content 
 
 print(compare_content.compare_file(src_file, dest_file))
 
