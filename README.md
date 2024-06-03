@@ -1,10 +1,10 @@
 # Python Data Helper
 
 [![Testing](https://github.com/rabiloo/python-data-helper/actions/workflows/test.yml/badge.svg)](https://github.com/rabiloo/python-data-helper/actions/workflows/test.yml)
-[![Latest Version](https://img.shields.io/pypi/v/data-helper.svg)](https://pypi.org/project/data-helper)
-[![Downloads](https://img.shields.io/pypi/dm/data-helper.svg)](https://pypi.org/project/data-helper)
-[![Pypi Status](https://img.shields.io/pypi/status/data-helper.svg)](https://pypi.org/project/data-helper)
-[![Python Versions](https://img.shields.io/pypi/pyversions/data-helper.svg)](https://pypi.org/project/data-helper)
+[![Latest Version](https://img.shields.io/pypi/v/datas-helper.svg)](https://pypi.org/project/datas-helper)
+[![Downloads](https://img.shields.io/pypi/dm/datas-helper.svg)](https://pypi.org/project/datas-helper)
+[![Pypi Status](https://img.shields.io/pypi/status/datas-helper.svg)](https://pypi.org/project/datas-helper)
+[![Python Versions](https://img.shields.io/pypi/pyversions/datas-helper.svg)](https://pypi.org/project/datas-helper)
 
 ## About Data Helper
 

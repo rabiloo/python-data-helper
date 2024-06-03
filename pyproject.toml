@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "datas-helper"
-version = "0.0.1"
+version = "0.0.2"
 description = "Set of support functions when working with some data files"
 readme = "README.md"
 keywords = [ "data-helper", "json", "csv", "tar", "gzip", "opencv", "Pillow" ]
