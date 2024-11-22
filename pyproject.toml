@@ -40,6 +40,9 @@ image = [
     "pillow",
     "opencv-python-headless"
 ]
+security = [
+    "cryptography"
+]
 
 [project.urls]
 "Homepage" = "https://github.com/rabiloo/python-data-helper"
